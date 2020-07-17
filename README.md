@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... Django and Spring based web apps
 - 🌱 I’m currently learning ... React.js and UX flows
 - 👯 I’m looking to collaborate on ... Software projects and meet-ups
-- 🤔 I’m looking for help with ... Data engineering and distributed systems
+- 🤔 I’m looking for insights on ... Data engineering and distributed systems
 - 💬 Ask me about ... Algorithms, programming, Software engineering, Public speaking
 - 📫 How to reach me: ... prajwalshenoy07@gmail.com
 - ⚡ Fun fact: ... Data is the new oil! 
