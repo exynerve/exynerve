@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-- 🔭 I’m currently working on ... Django and Spring based web apps
+- 🔭 I’m currently working on ... Spring based web apps
 - 🌱 I’m currently learning ... React.js and UX flows
 - 👯 I’m looking to collaborate on ... Software projects and meet-ups
 - 🤔 I’m looking for insights on ... Data engineering and distributed systems
