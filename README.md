@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Software projects and meet-ups
 - 🤔 I’m looking for insights on ... Data engineering and distributed systems
 - 💬 Ask me about ... Algorithms, programming, Software engineering, Public speaking
-- 📫 How to reach me: ... prajwalshenoy07@gmail.com
+- 📫 How to reach me: 
 - ⚡ Fun fact: ... Data is the new oil! 
 
 <!--
